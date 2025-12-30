@@ -12,16 +12,9 @@ Email Me 👉 ✉️ **dakshsharma36173.com** For Collaboration/Project or Anyth
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 
@@ -38,6 +31,12 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DakshSharma45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
